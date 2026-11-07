@@ -12,6 +12,14 @@
 - 大小：49,020,823 字节（约 47 MB）
 - SHA-256：`1a3ddc2717be5a018ae4173aa127acda531b57779f59f88ced5b925a0881178a`
 
+### 直链提示“拒绝访问”时
+
+`raw.githubusercontent.com` 在部分网络环境下会被拦截，可改用：
+
+- GitHub Release：https://github.com/findzhouqwq/Bili-Play-APK/releases/download/0.9.4/BiliPlay_0.9.4_android.apk
+- 仓库 ZIP：https://codeload.github.com/findzhouqwq/Bili-Play-APK/zip/refs/heads/main（解压后安装 APK）
+- ghproxy 镜像：`https://ghproxy.net/https://raw.githubusercontent.com/findzhouqwq/Bili-Play-APK/main/BiliPlay_0.9.4_android.apk`（第三方代理，下载后请核对 SHA-256）
+
 系统要求：Android 9.0+（minSdk 28）。
 
 ## 安装
